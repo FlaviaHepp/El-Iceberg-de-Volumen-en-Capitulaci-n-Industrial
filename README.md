@@ -102,3 +102,66 @@ Es dinero grande trabajando en silencio 🧊📊
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
 Este insight no busca señales ruidosas.
 Busca el momento exacto donde el mercado deja de caer, aunque nadie lo note.
+
+****
+🧊 **El “Iceberg” invisible: cuando el mercado cae… pero alguien está comprando todo**
+
+Hay momentos de pánico donde todo parece claro:
+
+📉 Una industria entera cae fuerte
+😰 Ventas generalizadas
+🚨 Sensación de capitulación
+
+Pero a veces… aparece una anomalía.
+
+---
+
+📊 En este análisis detecté casos donde:
+
+👉 La **industria cae fuerte** (>5%)
+👉 Pero en un ticker específico:
+
+* El **volumen es 5x el promedio**
+* El **precio casi no se mueve**
+
+---
+
+⚠️ ¿Cómo puede haber tanto volumen… sin movimiento?
+
+💡 Posible explicación:
+
+🧠 **Órdenes Iceberg (institucionales)**
+Comprando silenciosamente todo lo que el mercado vende en pánico.
+
+---
+
+🚨 Esto cambia completamente la lectura:
+
+* El retail vende por miedo
+* Las instituciones absorben la liquidez
+* El precio se estabiliza… a pesar del caos
+
+---
+
+📉 Insight clave:
+**Cuando el volumen explota pero el precio no cae…
+alguien grande está acumulando.**
+
+---
+
+🔍 ¿Por qué importa?
+
+Porque puede indicar:
+✔️ Zonas de acumulación institucional
+✔️ Posibles suelos de mercado
+✔️ Fin de movimientos de capitulación
+
+---
+
+🧠 En trading, lo importante no es solo ver el movimiento…
+sino detectar **quién está del otro lado**.
+
+---
+
+#Quant #Trading #DataScience #MarketMicrostructure #Volume #SmartMoney #Finanzas
+
